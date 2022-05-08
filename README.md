@@ -1,6 +1,6 @@
 ### CVer一枚 👋
 
-希望永远年轻，永远热泪盈眶！
+愿我们永远年轻，永远热泪盈眶！
 
 <img src="https://github-readme-stats.vercel.app/api?username=HuKai-cv&count_private=true&show_icons=true&theme=tokyonight&layout=compact"  height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuKai-cv&theme=tokyonight&layout=compact" height="150">
 
