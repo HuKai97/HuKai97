@@ -15,3 +15,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HuKai97&repo=FFSSD-ResNet&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  width="350" />
 </a>
 
+<a href="https://github.com/HuKai97/YOLOv5-ShuffleNetv2">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HuKai97&repo=YOLOv5-ShuffleNetv2&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  width="400" />
+</a>
